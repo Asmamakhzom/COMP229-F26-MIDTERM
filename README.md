@@ -1,0 +1,2 @@
+# COMP229-F26-MIDTERM
+COMP229 Equipment Catalogue API
